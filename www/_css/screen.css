@@ -350,22 +350,22 @@ button {
 /* ============================================= */
 @media (min-width: 900px) {
   .intro-cover {
-    background-image: url(/_img/content/story/william-bw.jpg);
+    background-image: url(../_img/content/story/william-bw.jpg);
     height: 700px;
   }
 
   #ch1-intro {
-    background-image: url(/_img/content/story/aztec_closeup.jpg);
+    background-image: url(../_img/content/story/aztec_closeup.jpg);
     height: 900px;
   }
 
   #ch2-intro {
-    background-image: url(/_img/content/story/aztec_closeup.jpg);
+    background-image: url(../_img/content/story/aztec_closeup.jpg);
     height: 1000px;
   }
 
   #ch3-intro {
-    background-image: url(/_img/content/story/mural.jpg);
+    background-image: url(../_img/content/story/mural.jpg);
     height: 1000px;
   }
 }
@@ -843,7 +843,7 @@ figcaption:after {
   background-color: rgba(0, 0, 0, 0.9);
 }
 .no-rgba .toc .toc-share .toc-share-menu {
-  background: transparent url('../_img/_bg/black-90.png?1362761093') 50% 50% repeat;
+  background: transparent url('..../_img/_bg/black-90.png?1362761093') 50% 50% repeat;
 }
 .toc .toc-share .toc-share-menu li a {
   display: block;
@@ -854,7 +854,7 @@ figcaption:after {
   background-color: rgba(255, 255, 255, 0.1);
 }
 .no-rgba .toc .toc-share .toc-share-menu li a:hover {
-  background: transparent url('../_img/_bg/white-10.png?1362761093') 50% 50% repeat;
+  background: transparent url('..../_img/_bg/white-10.png?1362761093') 50% 50% repeat;
 }
 .toc .toc-share:hover .toc-share-menu {
   display: block;
@@ -926,13 +926,13 @@ figcaption:after {
   background-color: #bccae5;
 }
 .nav .share ul li a#t {
-  background-image: url(/_img/content/twitter.png);
+  background-image: url(../_img/content/twitter.png);
 }
 .nav .share ul li a#f {
-  background-image: url(/_img/content/facebook.png);
+  background-image: url(../_img/content/facebook.png);
 }
 .nav .share ul li a#e {
-  background-image: url(/_img/content/email.png);
+  background-image: url(../_img/content/email.png);
 }
 .nav.open .menu {
   display: block;
@@ -1021,7 +1021,7 @@ figcaption:after {
     margin: 0 auto;
   }
   .no-rgba .intro-mod {
-    background: transparent url('../_img/_bg/black-80.png?1362761093') 50% 50% repeat;
+    background: transparent url('..../_img/_bg/black-80.png?1362761093') 50% 50% repeat;
   }
 }
 .intro-mod.absolute {
@@ -1245,7 +1245,7 @@ figcaption:after {
   display: block;
   width: 100%;
   height: 100px;
-  background-image: url(/_img/play.png);
+  background-image: url(../_img/play.png);
   background-position: center center;
   background-repeat: no-repeat;
 }
@@ -1254,7 +1254,7 @@ figcaption:after {
 }
 
 .sc-player.playing .sc-play {
-  background-image: url(/_img/pause.png);
+  background-image: url(../_img/pause.png);
 }
 .sc-player.playing .sc-time-span .sc-played {
   opacity: 1;
